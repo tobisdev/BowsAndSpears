@@ -1,0 +1,36 @@
+Credits
+=======================
+
+Tobi:
+-Player
+-Physics
+-Lever loader
+-Animation Loader
+-Cloud
+-Background
+-Main Menu
+-Title
+
+
+David:
+-Theme music
+-Torch
+-Player
+-Enemy
+-Earth
+-Bridge
+-Waterfall
+-Code Assistence
+
+Devrim:
+-Enemy AI
+-Game testing
+-Title
+-Background
+
+Omer:
+-Title
+-Title music
+
+Alex:
+-Game testing
